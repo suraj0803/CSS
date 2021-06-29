@@ -1,0 +1,17 @@
+/* Any Comments*/
+h1{
+	color:blue;
+}
+
+li{
+	color:red;
+	/*color:rgb(rgb code);*/
+}
+
+p{
+	color:#0895a8;
+}
+
+h4{
+	color:rgba(255,97,0,0.5);
+}

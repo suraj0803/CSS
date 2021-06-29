@@ -1,0 +1,32 @@
+
+/* class start with a .*/
+.firstdiv{
+	color:blue;
+}
+
+.seconddic{
+	color:red;
+}
+#singledout{
+	color:green;
+	text-decoration: line-through;
+}
+
+/*
+*{
+	color:black ---> it will overwrite everything.
+}
+*/
+
+h3 + ul{
+	border: 4px dotted purple;
+}
+
+li a{
+	color:red;
+}
+
+li a[href="www.npr.org"]{
+	color:blue;
+	border: 5px solid orange;
+}
